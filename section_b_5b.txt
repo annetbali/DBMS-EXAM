@@ -1,0 +1,5 @@
+(i)
+WHERE
+    Is used to filter records. 
+ORDER BY
+    Is used to group rows that have the same values.

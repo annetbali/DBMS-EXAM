@@ -1,0 +1,37 @@
+question 1
+(i)
+Database is a collection of related data stored in rows and columns.
+(ii)
+Database Manangement System is a software that is used to create and maintain databases.
+(iii)
+SQL is a Structured Query Language.
+(iv)
+Foreign Key is a attributes with one relation where the product key matches with the other.
+(v)
+Primary Key is a candidate key that uniquely identifies an attribute of a given entity.
+
+qestion 2
+Sharing of data.
+    Databases imporve on the ability to share data.
+Data consistency.
+    The changes made to the different occurrences of data are easily controlled and managed.
+Improved data integrity.
+    The data is accurate and more reliable using databases.
+Improved data productivity.
+
+Control of data redundancy.
+    Databases are used to control data redundancy through the use of security keys used to protect the data.
+
+question 3
+Hospital management system used in hospital to store patients records.
+E-Learning management systems used in schools and universities.
+Telecommunication systems for example MTN for storing mobile money transactions.
+Banking management systems used in banks to carryout transactions.
+
+question 4
+one to one relationship.
+    This refers to a relationship where a record in one table is associated with exactly one record in another table.
+one to many relationship
+    This refers to a relationship where a record in one table is associated with many records in another table.
+many to many relationship
+    This refers to a relationship where many records in one table are associated with many other records in another table.
